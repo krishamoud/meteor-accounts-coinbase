@@ -1,0 +1,8 @@
+{
+    "name": "accounts-coinbase",
+    "description": "Login service for coinbase accounts",
+    "homepage": "https://github.com/khamoud/meteor-accounts-stripe",
+    "author": "Kris Hamoud (https://github.com/khamoud)",
+    "version": "0.0.1",
+    "git": "https://github.com/khamoud/meteor-accounts-stripe.git"
+}
